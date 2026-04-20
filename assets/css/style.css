@@ -18729,7 +18729,7 @@ button.close {
   color: var(--color-white) !important;
 }
 .primary-pink .tmp-btn:hover {
-  box-shadow: 0px 0px 48px 1px hsla(342, 100%, 50%, 0.354) !important;
+  box-shadow: 0px 0px 48px 1px hsl(177.46deg 47.02% 29.61% / 30%) !important;
 }
 .primary-pink .banner-style-1.banner-bg-shape {
   background-image: none;
@@ -19253,7 +19253,7 @@ button.close {
   background: #f8f7f1;
 }
 .primary-light .tmp-btn:hover {
-  box-shadow: 0px 0px 48px 1px hsla(342, 100%, 50%, 0.354) !important;
+  box-shadow: 0px 0px 48px 1px hsl(177.46deg 47.02% 29.61% / 30%) !important;
 }
 .primary-light .pagination-area ul li.active, .primary-light .pagination-area ul li:hover {
   background: var(--color-primary);
@@ -19412,7 +19412,7 @@ button.close {
   color: var(--color-white);
 }
 .primary-light .tmp-client-card a img {
-  filter: brightness(0) saturate(100%) invert(21%) sepia(95%) saturate(7499%) hue-rotate(336deg) brightness(99%) contrast(105%);
+  filter: brightness(0) saturate(100%) invert(21%) sepia(95%) saturate(7499%) hue-rotate(174deg) brightness(99%) contrast(105%);
 }
 .primary-light .footer-main .tmp-footer-shape {
   background: linear-gradient(147.77deg, var(--color-primary) 14.56%, var(--color-primary) 86.63%);
@@ -19496,7 +19496,7 @@ button.close {
   background-color: var(--bg-light);
 }
 .primary-light.home-designer .tmp-service-single .content .icon img, .primary-light.home-designer .service-style-2 .content .icon img {
-  filter: brightness(0) saturate(100%) invert(13%) sepia(98%) saturate(7187%) hue-rotate(336deg) brightness(99%) contrast(105%);
+  filter: brightness(0) saturate(100%) invert(13%) sepia(98%) saturate(7187%) hue-rotate(174deg) brightness(99%) contrast(105%);
 }
 .primary-light.home-designer .banner-style-2 .shape .is-1,
 .primary-light.home-designer .banner-style-2 .shape .is-2 {
@@ -19506,7 +19506,7 @@ button.close {
   background-image: none;
 }
 .primary-light.home-designer .about-style-1 .content-left .images img {
-  filter: brightness(0) saturate(100%) invert(13%) sepia(98%) saturate(7187%) hue-rotate(336deg) brightness(99%) contrast(105%);
+  filter: brightness(0) saturate(100%) invert(13%) sepia(98%) saturate(7187%) hue-rotate(174deg) brightness(99%) contrast(105%);
 }
 .primary-light .counter-style-1,
 .primary-light .portfolio-style-2, .primary-light .designer-portfolio,
@@ -19676,7 +19676,7 @@ button.close {
 }
 .primary-light.freelancer-demo .banner-style-9 .thumbnail-wrapper .badge-title span,
 .primary-light.freelancer-demo .tmp-pricing-card-feature {
-  color: var(--color-white);
+  color: var(--color-white);  
 }
 .primary-light.freelancer-demo .freelancer-section-bg,
 .primary-light.freelancer-demo .freelancer-pricing-bg {
@@ -19686,7 +19686,7 @@ button.close {
 .primary-light.freelancer-demo .service-style-4 .icon img, .primary-light.freelancer-demo .tmp-cs-box .icon img,
 .primary-light.freelancer-demo .testimonial-style-4 .shape-left img {
   opacity: 1;
-  filter: brightness(0) saturate(100%) invert(16%) sepia(94%) saturate(6720%) hue-rotate(336deg) brightness(101%) contrast(110%);
+  filter: brightness(0) saturate(100%) invert(16%) sepia(94%) saturate(6720%) hue-rotate(174deg) brightness(101%) contrast(110%);
 }
 .primary-light.freelancer-demo .about-author,
 .primary-light.freelancer-demo .about-content {
@@ -19897,7 +19897,7 @@ button.close {
   background: var(--bg-light);
 }
 .primary-light.home-technician .tmp-header--technician::before {
-  filter: brightness(0) saturate(100%) invert(12%) sepia(89%) saturate(5661%) hue-rotate(336deg) brightness(105%) contrast(106%);
+  filter: brightness(0) saturate(100%) invert(12%) sepia(89%) saturate(5661%) hue-rotate(174deg) brightness(105%) contrast(106%);
 }
 .primary-light.home-technician.color-tmp-tec .tmp-mainmenu-nav .tmp-mainmenu > li > a {
   color: var(--color-white) !important;
@@ -19909,7 +19909,7 @@ button.close {
   background: var(--bg-over-light);
 }
 .primary-light.home-technician .tmp-service-box.service-center .tmp-service-icon img, .primary-light.home-technician .service-style-3.service-center .tmp-service-icon img {
-  filter: brightness(0) saturate(100%) invert(12%) sepia(89%) saturate(5661%) hue-rotate(336deg) brightness(105%) contrast(106%);
+  filter: brightness(0) saturate(100%) invert(12%) sepia(89%) saturate(5661%) hue-rotate(174deg) brightness(105%) contrast(106%);
 }
 .primary-light.home-technician .tmp-skill-full .tmp-skill-shape,
 .primary-light.home-technician .contact-form-style-1.variation-3 .tmp-contact-form-shape,
@@ -19988,7 +19988,7 @@ button.close {
 }
 .primary-light.writer-demo.writer-demo .marque-section-bg img {
   opacity: 1;
-  filter: brightness(0) saturate(100%) invert(12%) sepia(89%) saturate(5661%) hue-rotate(336deg) brightness(105%) contrast(106%);
+  filter: brightness(0) saturate(100%) invert(12%) sepia(89%) saturate(5661%) hue-rotate(174deg) brightness(105%) contrast(106%);
 }
 .primary-light.writer-demo .about-author, .primary-light.writer-demo .primary-light.freelancer-demo .about-content,
 .primary-light.writer-demo .about-content {
@@ -20039,7 +20039,7 @@ button.close {
   border: none;
 }
 .primary-light.writer-demo .service-style-4 .icon img {
-  filter: brightness(0) saturate(100%) invert(16%) sepia(94%) saturate(6720%) hue-rotate(336deg) brightness(101%) contrast(110%);
+  filter: brightness(0) saturate(100%) invert(16%) sepia(94%) saturate(6720%) hue-rotate(174deg) brightness(101%) contrast(110%);
 }
 .primary-light.writer-demo .service-style-4 .tmp-service-link {
   background: var(--color-white);
