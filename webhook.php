@@ -1,7 +1,7 @@
 <?php
 
+$output = [];
+exec('/home3/ahmadothman/deploy.sh 2>&1', $output);
 
-// شغل deploy
-exec('/home3/ahmadothman/deploy.sh 2>&1');
-
-echo "Deployed";
+echo "<pre>";
+print_r($output);
